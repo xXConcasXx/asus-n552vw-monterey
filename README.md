@@ -1,5 +1,5 @@
 # asus-n552vw-monterey
-macOS Monterey for ASUS N552VW-FI202T
+[Discontinued] macOS Monterey for ASUS N552VW-FI202T
 
 Works in macOS Monterey 12.0.1 in BIOS ver. 300
 This EFI uses OpenCore EFI Bootloader.
@@ -32,8 +32,3 @@ Any advice and improvement are welcome!
 Enjoy.
 
 You can download EFI from Release page: https://github.com/xXConcasXx/asus-n552vw-monterey/releases
-
-# If you like what I do for you, consider a small donation, whether it is small, medium or large, it makes no difference, your gesture is super appreciated!
-
-Link for donation:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZRA5QJCZS5SL&source=url
